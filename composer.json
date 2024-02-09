@@ -1,0 +1,24 @@
+{
+    "name": "maylancerdev/echoboard",
+    "description": "echoboard",
+    "keywords": [
+        "echoboard"
+    ],
+    "homepage": "https://echoboard.live",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "maylancer",
+            "email": "hello@maylancer.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+      
+    },
+    "require-dev": {
+       
+    }
+
+}
